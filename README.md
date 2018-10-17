@@ -33,6 +33,7 @@ Once started you'll be able to access to the following UIs:
 ### Available tags
 
 - Kudu 1.7.0 ([1.7.0-cdh5.15.1](https://github.com/JosemyDuarte/docker-kudu/blob/1.7.0-cdh5.15.1/Dockerfile), [latest](https://github.com/JosemyDuarte/docker-kudu/blob/latest/Dockerfile))
+- Kudu 1.6.0 ([1.6.0-cdh5.14.2](https://github.com/JosemyDuarte/docker-kudu/blob/1.6.0-cdh5.14.2/Dockerfile))
 
 ### Copyright
 
